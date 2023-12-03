@@ -19,8 +19,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Mohammed-Fahiz/Mohammed-Fahiz/blob/output/github-contribution-grid-snake.svg)
-
 
 ###
 
