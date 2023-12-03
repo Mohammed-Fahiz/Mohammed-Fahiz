@@ -19,7 +19,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mohammed-Fahiz/Mohammed-Fahiz/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Mohammed-Fahiz/Mohammed-Fahiz/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 
