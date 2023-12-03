@@ -22,9 +22,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mohammed-Fahiz/count.svg?"  />
-</div>
 
 
 <div align="center">
