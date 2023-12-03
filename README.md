@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Mohammed Fahiz and I'm a Flutter developer, from India</h2>
 
-<p align="left">🔭 I’m working as a flutter developer.<br> 📚 I'm currently learning advanced concepts of flutter,sql and riverpod<br>⚡ In my free time I like to code</p>
+<p align="left">🔭 I’m working as a flutter developer.<br> 📚 I'm currently learning advanced concepts of flutter,sql and riverpod.<br>⚡ In my free time I like to code.</p><br><br>
 
 ###
 
