@@ -1,12 +1,15 @@
-<h2 align="center">Hi 👋! My name is Mohammed Fahiz and I'm a Flutter developer, from India</h2>
-
-<p align="left">
-  🔭 I’m working as a flutter developer.<br>
-  📚 I'm currently learning advanced concepts of flutter, SQL, and Riverpod.<br>
-  ⚡ In my free time, I like to code.
-  <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
-</p>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+Fahiz!;" />
+</h1>
+<div align="center">
+    
+- 👀 I’m interested in mobile app development 
+ 
+- 📫 How to reach me mohammedfahiz73@gmail.com
+  
+- 🌱 I’m currently learning advanced concepts of Flutter,Sqlite,Riverpod & more❤️
+ 
+  
 
 
 [![An image of @mohammedfahiz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohammedfahiz)](https://holopin.io/@mohammedfahiz)
