@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
     
-- 👀 I’m interested in mobile app development 
+- 👀 I’m interested in Full-stack app development
  
 - 📫 How to reach me mohammedfahiz73@gmail.com
   
